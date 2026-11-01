@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+  <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#061526"/><stop offset="1" stop-color="#020711"/></linearGradient>
+  <linearGradient id="cyan"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#36bfff"/><stop offset="1" stop-color="#00ffa8"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#08bfe5" opacity=".48"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="388" rx="21" fill="url(#dots)" opacity=".7" stroke="#00dff5" stroke-width="1.5"/>
+<g stroke="#00dff5" stroke-width="4" fill="none" filter="url(#glow)">
+ <path d="M25 75V28H95 M1105 28h70v47 M25 315v47h70 M1105 362h70v-47" opacity=".85"/>
+</g>
+<g fill="none" stroke="url(#cyan)" stroke-width="2.4" filter="url(#glow)" opacity=".9">
+ <path d="M35 220 C170 95 270 95 390 220 S610 345 730 220 S950 95 1165 220">
+  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M35 220 C170 95 270 95 390 220 S610 345 730 220 S950 95 1165 220;M35 220 C170 345 270 345 390 220 S610 95 730 220 S950 345 1165 220;M35 220 C170 95 270 95 390 220 S610 345 730 220 S950 95 1165 220"/>
+ </path>
+ <path d="M35 235 C170 125 270 125 390 235 S610 345 730 235 S950 125 1165 235" opacity=".5">
+  <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M35 235 C170 125 270 125 390 235 S610 345 730 235 S950 125 1165 235;M35 235 C170 345 270 345 390 235 S610 125 730 235 S950 345 1165 235;M35 235 C170 125 270 125 390 235 S610 345 730 235 S950 125 1165 235"/>
+ </path>
+</g>
+<g fill="#00eaff" opacity=".75">
+ <circle cx="600" cy="195" r="5" filter="url(#glow)"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="390" cy="220" r="3"/><circle cx="730" cy="220" r="3"/>
+</g>
+<g font-family="monospace" fill="#d9faff">
+ <rect x="52" y="48" width="265" height="120" rx="12" fill="#06101d" fill-opacity=".88" stroke="#00dff5"/>
+ <circle cx="72" cy="68" r="5" fill="#ff5f57"/><circle cx="90" cy="68" r="5" fill="#febc2e"/><circle cx="108" cy="68" r="5" fill="#28c840"/>
+ <text x="72" y="100" font-size="16" fill="#35cfff">01</text><text x="105" y="100" font-size="16">while (building) {</text>
+ <text x="72" y="124" font-size="16" fill="#35cfff">02</text><text x="105" y="124" font-size="16">  learn(); build();</text>
+ <text x="72" y="148" font-size="16" fill="#35cfff">03</text><text x="105" y="148" font-size="16">  improve(); }</text>
+ <rect x="883" y="48" width="265" height="120" rx="12" fill="#06101d" fill-opacity=".88" stroke="#00dff5"/>
+ <text x="905" y="82" font-size="17" fill="#00eaff">&gt; SYSTEM STATUS</text>
+ <text x="905" y="111" font-size="15" fill="#8fffd5">● AI / LLMs ........ READY</text>
+ <text x="905" y="137" font-size="15" fill="#8fffd5">● Vision .......... READY</text>
+ <text x="905" y="160" font-size="15" fill="#8fffd5">● Robotics ........ READY</text>
+</g>
+<g filter="url(#glow)" fill="none" stroke="#00eaff" stroke-width="2">
+ <ellipse cx="600" cy="292" rx="205" ry="27" opacity=".65"><animate attributeName="rx" values="180;215;180" dur="4s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="600" cy="292" rx="145" ry="18" opacity=".8"><animate attributeName="rx" values="125;155;125" dur="4s" repeatCount="indefinite"/></ellipse>
+</g>
+<g font-family="monospace" font-size="44" font-weight="bold" fill="#dffcff" filter="url(#glow)" text-anchor="middle">
+ <text x="600" y="280">&lt;/&gt;<animate attributeName="opacity" values="1;.68;1" dur="2.4s" repeatCount="indefinite"/></text>
+</g>
+<text x="600" y="350" font-family="monospace" font-size="14" fill="#59dff6" text-anchor="middle" letter-spacing="4">CODE  •  CREATE  •  ITERATE  •  EVOLVE</text>
+</svg>
