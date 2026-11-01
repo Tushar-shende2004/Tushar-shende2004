@@ -1,13 +1,12 @@
 <!-- TUSHAR SHENDE | TERMINAL-STYLE PROFILE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,50:083344,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:083344,100:020617" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=TUSHAR+SHENDE;AI+%26+ROBOTICS+BUILDER;CODE.+BUILD.+EVOLVE." alt="Animated name and introduction"/>
+<h1>Tushar Shende</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&width=360&lines=Tushar+Shende" alt="Tushar Shende animated name"/>
 
-<sub><b>AI ENGINEERING · GENERATIVE AI · COMPUTER VISION · ROBOTICS & IoT</b></sub>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/GitHub-Tushar--shende2004-07111F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/tushar-shende-949272378"><img src="https://img.shields.io/badge/LinkedIn-Connect-07111F?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
@@ -23,52 +22,31 @@
 <h3 align="center">◉ &nbsp; IDENTITY SCAN</h3>
 
 <pre>
-                  :.  .               
-              .-=***==:               
-             :#%%%%%%#-               
-            .#%%%%######++-. -.       
-           .*%%%%%#%%%#%%%%+.*-       
-           *#%@%@%%%%%##%%%%##*:      
-          :%%%@@@%%@%%%@%%@%%##+      
-          :%%%@@@@@@@@@@%%%%%%#%-     
-          :%@%%%%%@@@@@@@@%%@%%%+     
-         .*%%**+**##%@%%%%%@%%#%-     
-          #%+-----=++#%%%%%%%%%#:     
-         .##----:::--=*####**%%*      
-         .#*----:::::--=++=--#%+      
-         .#+----::::::::-----#*.      
-          *=:-::::::::::::---#-       
-          +-:---:::::::.::::-*.       
-          =:-=***=-:::::---:-=        
-         :+--=+*##+---+*#*+=-:        
-         ==-+**%#%*=-+##*+=--:        
-         -=--==*++=-:=*#%**=--        
-         :-:::-=---::--=+==--.        
-         :-::::::::::::---::-.        
-         :-::..:::::.:::::.:-         
-         :-::..::::..:::...:-         
-         .-:::::---:::::...::         
-          :::::--=++++:::.:::         
-          .-------==--::::::          
-          .---=*+==------:::          
-           :--=++=++++*+-:-.          
-           .-==--==----=--:           
-           .==---+**+-----.           
-           :+==--:::----==            
-           :+=+=----:--==+.           
-         . .*=+++++===+==+            
-       ...  ++=++*##*+=-==  .         
-        .   -*===+**+=--+:            
-        .   .++===+==--=+.            
-             -+====----+-             
-             .+=-==---=+.             
-           :=.-=------=- :.      .    
-          :-=:.::::::-:..-=:          
-         ::::-:.::::::..:::--.        
-       .......:. ::::....  ..:.       
-              ....::. ..              
-                ..:: ..               
-                  .. ..
+         +@@*------------=*#%@@@%#*#@@@%.
+         +@%+-------:::----++*#**===%@@%:
+         =@%=------::::::::---=-=---#@#-
+         -@*------::::::::::::------#@:
+         .@=----:::::::::::::::-----%@
+          %---==--::::::::::::::----%+
+          #-:=**#%#+--::::::::::::-:#:
+         :#:-=+*%@@%#+=-:--=+**+==--*
+         **:=+**##@@@#+--=*#@@@%#*=-=
+        .%+-+#@#@@@@@%+--*@@@%**+=--=
+        .#=-==++*@*#%+=:-+#@@@@%#*=-+
+         *-:--=++*++==-::-+**@**#*===
+         +-::::--=-----::--=+++==--=-
+         +-::.:::::::-:::--------::=:
+         +-::....:::-::.::::::::.::=.
+         +-::.....:-:::..:-::....::=
+         =-:::..::-:.:...::::.....:=
+         --:::::::==+=:::::::....::-
+          ---:::---=%#*+*%+:::..::--
+          :---------=*##++-:::::::-
+          :-----========------:::-:
+          .---==*@#+*+-==-==---::-.
+           ---==#%%*#######%*=----
+           .=====-==--=-=+*##=---.
+            -=++=-=++++===--==---
 </pre>
 
 <div align="center">
@@ -169,7 +147,6 @@ Open-source contribution to an AI-powered learning platform, including backend f
 <a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/tushar-shende-949272378"><img src="https://img.shields.io/badge-LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
 
-<sub><code>[ curiosity ] → [ code ] → [ build ] → [ test ] → [ evolve ]</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:020617,50:083344,100:020617" width="100%" alt=""/>
 
