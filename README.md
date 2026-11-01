@@ -6,8 +6,12 @@
 
 <br/>
 
-<a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/PROFILE-ONLINE-07111F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=07111F" alt="GitHub profile"/></a>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-07111F?style=for-the-badge&logo=星火&logoColor=22D3EE" alt="Building status"/>
+<img width="100%" src="https://raw.githubusercontent.com/Tushar-shende2004/Tushar-shende2004/main/assets/cyber-wave.svg" alt="Animated sci-fi code wave and system console"/>
+
+<br/>
+
+<a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/PROFILE-ONLINE-07111F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile"/></a>
+<img src="https://img.shields.io/badge/BUILD-ITERATE-E879F9?style=for-the-badge&labelColor=07111F" alt="Build iterate"/>
 <a href="https://www.linkedin.com/in/tushar-shende-949272378"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
 
 </div>
@@ -18,12 +22,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### ◈ SYSTEM / ABOUT
+### ◈ SYSTEM PROFILE
 
 ```yaml
 name: Tushar Shende
-base: Maharashtra, India
-interests:
+location: Maharashtra, India
+domains:
   - Generative AI
   - LLMs & AI Agents
   - Computer Vision
@@ -34,12 +38,17 @@ interests:
 </td>
 <td width="50%" valign="top">
 
-### ◈ OPERATING PRINCIPLES
+### ◈ CURRENT DIRECTIVES
 
-- Build useful things, not just demos.
-- Learn by experimenting and shipping.
-- Connect intelligent software with the real world.
-- Keep exploring, improving and contributing.
+```python
+while building:
+    explore()
+    experiment()
+    solve_real_problems()
+    ship_and_improve()
+```
+
+<sub>Curiosity first. Practical systems always.</sub>
 
 </td>
 </tr>
@@ -79,13 +88,13 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
-### ◉ Cosmo AI
+### ◉ COSMO AI
 Personal voice assistant exploring speech interaction, AI responses, automation and offline-first capabilities.
 
 </td>
 <td width="50%" valign="top">
 
-### ◉ Sentinel AI
+### ◉ SENTINEL AI
 YOLO-powered object tracking prototype with a Flask interface and servo hardware integration.
 
 </td>
@@ -93,13 +102,13 @@ YOLO-powered object tracking prototype with a Flask interface and servo hardware
 <tr>
 <td width="50%" valign="top">
 
-### ◉ GestureOrb
+### ◉ GESTUREORB
 Hand-tracking 3D interface concept controlled through natural gestures.
 
 </td>
 <td width="50%" valign="top">
 
-### ◉ AI Mentor
+### ◉ AI MENTOR
 Open-source contributions to an AI-powered learning platform.
 
 </td>
@@ -129,7 +138,7 @@ Open-source contributions to an AI-powered learning platform.
 
 <br/><br/>
 
-<sub><code>EXPLORING THE FRONTIER · ONE BUILD AT A TIME</code></sub>
+<sub><code>BUILD. LEARN. INNOVATE. REPEAT.</code></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:07111F,55:0B2540,100:020617" alt="Sci-fi footer"/>
 
