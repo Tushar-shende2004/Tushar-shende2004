@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:083344,100:020617" width="100%" alt=""/>
 
 <h1>Tushar Shende</h1>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&width=360&lines=Tushar+Shende" alt="Tushar Shende animated name"/>
 
 <br/>
 
@@ -22,36 +21,23 @@
 <h3 align="center">◉ &nbsp; IDENTITY SCAN</h3>
 
 <pre>
-         +@@*------------=*#%@@@%#*#@@@%.
-         +@%+-------:::----++*#**===%@@%:
-         =@%=------::::::::---=-=---#@#-
-         -@*------::::::::::::------#@:
-         .@=----:::::::::::::::-----%@
-          %---==--::::::::::::::----%+
-          #-:=**#%#+--::::::::::::-:#:
-         :#:-=+*%@@%#+=-:--=+**+==--*
-         **:=+**##@@@#+--=*#@@@%#*=-=
-        .%+-+#@#@@@@@%+--*@@@%**+=--=
-        .#=-==++*@*#%+=:-+#@@@@%#*=-+
-         *-:--=++*++==-::-+**@**#*===
-         +-::::--=-----::--=+++==--=-
-         +-::.:::::::-:::--------::=:
-         +-::....:::-::.::::::::.::=.
-         +-::.....:-:::..:-::....::=
-         =-:::..::-:.:...::::.....:=
-         --:::::::==+=:::::::....::-
-          ---:::---=%#*+*%+:::..::--
-          :---------=*##++-:::::::-
-          :-----========------:::-:
-          .---==*@#+*+-==-==---::-.
-           ---==#%%*#######%*=----
-           .=====-==--=-=+*##=---.
-            -=++=-=++++===--==---
+             .-=========-.
+          .-'  .-"""-.   '-.
+        .'    /  _ _  \     '.
+       /     |  (o o)  |      \
+      ;      |    ^    |       ;
+      |      |  .---.   |       |
+      |      | (     )  |       |
+      ;       \ '---'  /        ;
+       \       '.___.'         /
+        '.                   .'
+          '-.             .-'
+             '---.___.---'
+              /  /|\  \
+             /__/ | \__\
+            /_____|_____\
 </pre>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&width=340&lines=TUSHAR+SHENDE;AI+%26+ML+ENGINEER;ROBOTICS+DEVELOPER" alt="Animated Tushar Shende name"/>
-</div>
 
 </td>
 <td width="58%" valign="top">
@@ -61,8 +47,6 @@
 **> IDENTITY** ━━━━━━━━━━━━━━━━━━━━━
 
 - **Name:** Tushar Shende
-- **Education:** Final-year B.Tech — AI & ML
-- **College:** Rungta College of Engineering, Bhilai
 - **Location:** Maharashtra, India
 
 **> SYSTEM FOCUS** ━━━━━━━━━━━━━━━━━
