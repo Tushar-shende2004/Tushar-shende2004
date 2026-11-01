@@ -20,23 +20,34 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ◈ SYSTEM PROFILE
 
 ```yaml
 name: Tushar Shende
-location: Maharashtra, India
-domains:
+base: Maharashtra, India
+focus:
   - Generative AI
   - LLMs & AI Agents
   - Computer Vision
   - Robotics & IoT
-  - Backend Engineering
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### ◈ SKILLS & TALENTS
+
+- Python & backend development
+- LLM integration and AI workflows
+- OpenCV, YOLO & object tracking
+- Arduino, ESP32 & IoT prototyping
+- Git, debugging & problem solving
+- Building voice and automation tools
+
+</td>
+<td width="34%" valign="top">
 
 ### ◈ CURRENT DIRECTIVES
 
