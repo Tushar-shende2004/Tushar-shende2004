@@ -1,113 +1,136 @@
-<!-- TUSHAR SHENDE | ASCII PORTRAIT PROFILE -->
+<!-- TUSHAR SHENDE | SCI-FI PROFILE -->
 
 <div align="center">
 
-<pre>
-                                  .:---.   .::
-                            :=+++#%%%%%#*+**-:
-                          -#@@@@@@@%@@@@@@@%*=.
-                        -#@@@@@@@@@@%%@%%%%@@@%%#**#*=+:   -+:.
-                      -#@@@@@@@@@@@%@@@@@@@@%%%@@@@@@@@%+.:*%*-:
-                    .+@@%@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@%%%%%#+-
-                   .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%%##-
-                    *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%=
-                    =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#
-                 ..*@@@@@%%######%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%@@%+
-                  .%@@@%*++======++++****#%@@@@@@@@@@@@@@@@@@@@@@#:
-                  =@%@%+=========-----====+*#%%%%@@@@%%%%%%@@@@%#=
-                  +@%%#=========----------===+***###**++==+%@@@%#-
-                  -@%%+========------------------==========#@@*:-
-                  :%%*=======----------------------========#%%:
-                   #%--========---::-::-----:::::-------===#@=
-                   +#---=+*###%%#*+===-------------------=-#*
-                 .=#*-==++**###%@%%##*+=--==+**#%%%#****==-*.
-                 -%#=-++##%##%@@%@@@%#*===+#%%@@%###**+++==*
-                 =#*-===++**+#%#*#%#*+=--=+*#%%%@@%####*===#:
-                 :*+------==++++++====----===+**##*+**++==+*
-                 .*+----::--------------------=======-----+-
-                  *+---:::::::::-------::----------:::::--+:
-                 :+=----:::::::--=-:--::::-----:::::::::--+
-                 .==------::----==-==--:::-::---:::::::--==
-                   -=---------===+*##*****##=----:::::---+:
-                   :=-=============++****+++=-----------=:
-                    -=======+*#*+++++==========-==-------
-                    .======+*%%%#**###*******##*+==-----
-                     .===++++===++=======++++*##+===-=-
-                      :++++++====+*#####*++=--==+====-
-                      +*+**++========+++++======++++=
-                      *#+****++===---------===+++++#*
-                 .... -@*+**##***+++++++===++***+++%= .
-             ...::.....*@*++***###%%#%%####***++++#%:   ...
-         ......... ....:#%**+*****##%%%%##*++====*%=.    ......
-     .....  ........   .-#%*+++*****##***++=====+%+:.      ..    ...
- ..       ........      .-##*+++++++++++======+*%+..        ...   .....
-   ..... .. ....         .-##*++++++++++====++*#*..          ...  ..........
-...... .... ...       .--..-**+====+++======++**:. ..         .. ......    .
- . ...   .   .     .:=+**+..-=+=-----------====:..:++=-:           ...   ...
-.  ..       ..  ..-===--=+=:...-------------:....:=-=+++=-.    .   ...  ..
-   ..       ...::-::::::.:-=-:. .:---------.....::...:::-==-:..    ..
-   .        ......  .......::--:..:------:....:.....    ....::..   ..
-   .                  .........:::.:----: ...............           .
-                         ...   ......-=...........                  .
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&text=TUSHAR%20SHENDE&fontSize=46&fontColor=E6FBFF&fontAlignY=48&desc=PERSONAL%20GITHUB%20SPACE&descSize=12&descColor=22D3EE&animation=fadeIn&color=0:020617,45:0B2540,100:07111F" alt="Tushar Shende sci-fi header"/>
 
-<h1>Tushar Shende</h1>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=1000&color=22D3EE&center=true&vCenter=true&width=260&lines=Tushar+Shende" alt="Tushar Shende"/>
+<a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/PROFILE-ONLINE-07111F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=07111F" alt="GitHub profile"/></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-07111F?style=for-the-badge&logo=星火&logoColor=22D3EE" alt="Building status"/>
+<a href="https://www.linkedin.com/in/tushar-shende-949272378"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
 
 </div>
 
----
+<br/>
 
-## <code>> IDENTITY</code>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Name:** Tushar Shende
-- **Location:** Maharashtra, India
+### ◈ SYSTEM / ABOUT
 
-## <code>> SYSTEM FOCUS</code>
+```yaml
+name: Tushar Shende
+base: Maharashtra, India
+interests:
+  - Generative AI
+  - LLMs & AI Agents
+  - Computer Vision
+  - Robotics & IoT
+  - Backend Engineering
+```
 
-- Generative AI, LLMs & AI Agents
-- Computer Vision & Intelligent Automation
-- Robotics, IoT & Embedded Systems
-- Backend Development & Open Source
+</td>
+<td width="50%" valign="top">
 
-## <code>> TECH STACK</code>
+### ◈ OPERATING PRINCIPLES
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flask,nodejs,express,firebase,git,github,vscode,arduino&theme=dark" alt="Technology stack"/>
-</p>
+- Build useful things, not just demos.
+- Learn by experimenting and shipping.
+- Connect intelligent software with the real world.
+- Keep exploring, improving and contributing.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-0B1220?style=for-the-badge&logo=ultralytics&logoColor=22D3EE" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/OpenCV-0B1220?style=for-the-badge&logo=opencv&logoColor=22D3EE" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Ollama-0B1220?style=for-the-badge&logo=ollama&logoColor=22D3EE" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/ESP32-0B1220?style=for-the-badge&logo=espressif&logoColor=22D3EE" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-0B1220?style=for-the-badge&logo=raspberrypi&logoColor=22D3EE" alt="Raspberry Pi"/>
-</p>
+</td>
+</tr>
+</table>
 
-## <code>> FEATURED PROJECTS</code>
-
-| Project | Overview |
-|:--|:--|
-| **Cosmo AI** | Personal voice assistant exploring speech interaction, AI responses and automation. |
-| **Sentinel AI** | YOLO-powered object tracking prototype with a Flask interface and servo hardware. |
-| **GestureOrb** | Hand-tracking 3D holographic interface controlled through gestures. |
-| **AI Mentor** | Open-source contributions to an AI-powered learning platform. |
-
-## <code>> GITHUB TELEMETRY</code>
+## ⟡ TECHNOLOGY MATRIX
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-shende2004&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=22D3EE&text_color=C9D8E8" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-shende2004&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=C9D8E8" height="165" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Tushar-shende2004&hide_border=true&background=050816&ring=22D3EE&fire=67E8F9&currStreakLabel=22D3EE&sideLabels=C9D8E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8494A7" width="70%" alt="GitHub contribution streak"/>
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" alt="Programming languages"/>
+
+**AI / VISION / DATA**
+
+<img src="https://img.shields.io/badge/PyTorch-101827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-101827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/OpenCV-101827?style=for-the-badge&logo=opencv&logoColor=22D3EE" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/YOLO-101827?style=for-the-badge&logo=ultralytics&logoColor=22D3EE" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Ollama-101827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
+
+**WEB / TOOLS**
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,firebase,git,github,docker,vscode&theme=dark" alt="Web and developer tools"/>
+
+**HARDWARE / EMBEDDED**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware tools"/>
+<img src="https://img.shields.io/badge/ESP32-101827?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32"/>
+<img src="https://img.shields.io/badge/ESP8266-101827?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP8266"/>
+
 </div>
 
-## <code>> CONNECT</code>
+## ⟡ SELECTED BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ Cosmo AI
+Personal voice assistant exploring speech interaction, AI responses, automation and offline-first capabilities.
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ Sentinel AI
+YOLO-powered object tracking prototype with a Flask interface and servo hardware integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ GestureOrb
+Hand-tracking 3D interface concept controlled through natural gestures.
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ AI Mentor
+Open-source contributions to an AI-powered learning platform.
+
+</td>
+</tr>
+</table>
+
+## ⟡ GITHUB TELEMETRY
 
 <div align="center">
 
-<a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/tushar-shende-949272378"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Tushar-shende2004&show_icons=true&hide_border=true&bg_color=07111F&title_color=22D3EE&icon_color=22D3EE&text_color=D7E6F5&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-shende2004&layout=compact&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=D7E6F5" height="165" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Tushar-shende2004&hide_border=true&background=07111F&ring=22D3EE&fire=67E8F9&currStreakLabel=22D3EE&sideLabels=D7E6F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA1B8" width="70%" alt="GitHub contribution streak"/>
+
+</div>
+
+## ⟡ ESTABLISH CONNECTION
+
+<div align="center">
+
+<a href="https://github.com/Tushar-shende2004"><img src="https://img.shields.io/badge/GITHUB-0B1728?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/tushar-shende-949272378"><img src="https://img.shields.io/badge-LINKEDIN-0B1728?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/tushar_gizz"><img src="https://img.shields.io/badge-INSTAGRAM-0B1728?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/></a>
+
+<br/><br/>
+
+<sub><code>EXPLORING THE FRONTIER · ONE BUILD AT A TIME</code></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:07111F,55:0B2540,100:020617" alt="Sci-fi footer"/>
 
 </div>
